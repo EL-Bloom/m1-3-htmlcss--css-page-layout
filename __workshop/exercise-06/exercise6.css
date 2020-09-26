@@ -46,14 +46,14 @@ p {
   left: -5px;
 }
 
-.item {
+.dropdown-content--item {
   background-color: cornflowerblue;
   width: 100px;
   height: 33px;
   padding: 10px;
 }
 
-.item:hover {
+.dropdown-content--item:hover {
   background-color: dodgerblue;
 }
 

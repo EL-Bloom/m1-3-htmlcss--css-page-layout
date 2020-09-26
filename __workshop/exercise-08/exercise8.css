@@ -74,9 +74,10 @@ textarea {
   display: block;
   background-color: rgb(233, 233, 233);
   border: none;
-  width: 1000px;
+  width: 85vw;
   height: 80px;
-  margin: 20px;
+  padding: 20px; 
+  margin: 0 auto;
 }
 
 .form-button {
