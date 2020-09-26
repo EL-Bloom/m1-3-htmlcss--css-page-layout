@@ -1,0 +1,45 @@
+body{
+    margin:0px;
+    height:100%; 
+    
+}
+
+.container { 
+    position: relative;
+    min-height:100%;
+    height:100%;
+  
+
+}
+.container p h1{
+    text-align: center; 
+   
+}
+
+.navig { 
+    height:5vh;
+    background-color: rgb(94, 87, 87);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navig p {
+    color: white; 
+    font-family: 'Poppins', sans-serif;
+   
+    
+}
+
+.content { 
+ 
+    
+     background-color: blanchedalmond;
+    display:flex;
+    justify-content: center;
+    align-items: center; 
+    height: 90vh;  
+    font-family: 'Poppins', sans-serif;
+    
+}
+

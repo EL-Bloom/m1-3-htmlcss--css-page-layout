@@ -1,0 +1,47 @@
+/* @media (max-width: 799px) {
+  .desktop-nav {
+    display:none;
+  }
+}  */
+
+
+ body {
+  margin: 0;
+} 
+
+
+.mobile-nav-button img {
+  width: 18px;
+} 
+
+
+ 
+.desktop-nav { 
+  display:flex; 
+  align-items: flex-end; 
+  justify-content: flex-end; 
+  position: relative;
+} 
+
+li {
+  list-style: none; 
+  display: inline-block; 
+  padding: 10px;
+} 
+ 
+.mobile-nav {
+  display:flex; 
+  align-items: flex-end; 
+  justify-content: flex-end;
+} 
+.desktop-nav ul li:last-of-type {
+  margin-right:0;
+} 
+@media (max-width: 800px) { 
+  body {
+   
+  }
+  .desktop-nav {
+    display:none;
+  }
+}

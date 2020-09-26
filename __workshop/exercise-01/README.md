@@ -14,12 +14,14 @@ Your HTML should have the following structure:
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="style.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" /> 
+     
+
   </head>
 
   <body>
     <div class="container">
-      <!-- Stuff here -->
+  
     </div>
   </body>
 </html>

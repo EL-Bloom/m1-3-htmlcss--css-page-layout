@@ -1,0 +1,17 @@
+body {  
+
+    margin: 0;
+
+} 
+
+.container { 
+  display:flex;  
+  align-items: center;
+
+}  
+.row img{ 
+ 
+ width:33vw;
+
+}
+ 

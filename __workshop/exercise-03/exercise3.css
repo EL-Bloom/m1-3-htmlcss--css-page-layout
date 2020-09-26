@@ -1,0 +1,22 @@
+body {
+    margin :0px;
+    background-image: url('imgs/bg.jpg');
+}
+
+.container {
+    min-height: 100vh;
+}
+
+.text {  
+    height:1200px;
+    position:relative; 
+    flex-direction: inherit;
+    display: flex; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: poppins;
+
+
+}
